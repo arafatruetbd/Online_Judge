@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+     freopen("'Problem name without quote'out.txt","w",stdout);
+     freopen("'Problem name without quote'in.txt","r",stdin);
+     //".....Users code will start from here....."
+     return 0;
+}
